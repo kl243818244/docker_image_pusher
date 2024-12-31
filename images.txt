@@ -9,3 +9,7 @@ docker.getcollate.io/openmetadata/server:1.6.1
 docker.getcollate.io/openmetadata/ingestion:1.6.1
 docker.getcollate.io/openmetadata/postgresql:1.6.1
 arangodb:3.11
+absaoss/spline-rest-server:0.7.9
+absaoss/spline-admin:0.7.9
+absaoss/spline-spark-agent:2.2.0
+absaoss/spline-web-ui:0.7.6
